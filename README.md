@@ -179,7 +179,7 @@ discourse representations](https://scinlp.org/pdfs/extraction-of-causal-structur
 
 
 :boom: [Climbing towards NLU: On Meaning, Form, and Understanding in the Age of Data](https://virtual.acl2020.org/paper_main.463.html) (best theme paper) [**(paper)**](https://www.aclweb.org/anthology/2020.acl-main.463.pdf)
->
+> See also this dicussion: [To Dissect an Octopus: Making Sense of the Form/Meaning Debate](https://blog.julianmichael.org/2020/07/23/to-dissect-an-octopus.html)
 >
 > **See also:** [Glenberg and Robertson, Symbol Grounding and Meaning: A Comparison of High-Dimensional and Embodied Theories of Meaning, 2000](https://psychology.illinoisstate.edu/jccutti/psych480_24/readings/glenberg2000.pdf), [Changing Notions of Linguistic Competence in the History of Formal Semantics](https://philpapers.org/rec/PARCNO-3) and [Distribution is not enough: going Firther](https://www.aclweb.org/anthology/W19-1101/)
 
