@@ -596,6 +596,8 @@ See also: http://nlpprogress.com/english/data_to_text_generation.html
 
 ###  [:top:](#selections-from-acl-2020) Style Transfer
 
+:heavy_minus_sign: [Can Humor Prediction Datasets be used for Humor Generation? Humorous Headline Generation via Style Transfer](https://slideslive.com/38929713/can-humor-prediction-datasets-be-used-for-humor-generation-humorous-headline-generation-via-style-transfer) [**(paper)**](https://www.aclweb.org/anthology/2020.figlang-1.25.pdf)
+
 :heavy_minus_sign: [Improving Adversarial Text Generation by Modeling the Distant Future](https://virtual.acl2020.org/paper_main.227.html) [**(paper)**](https://www.aclweb.org/anthology/2020.acl-main.227.pdf)
 
 :heavy_minus_sign: [Expertise Style Transfer: A New Task Towards Better Communication between Experts and Laymen](https://virtual.acl2020.org/paper_main.100.html) [**(paper)**](https://www.aclweb.org/anthology/2020.acl-main.100.pdf) [**(code)**](https://srhthu.github.io/expertise-style-transfer/)
