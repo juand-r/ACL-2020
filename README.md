@@ -576,7 +576,7 @@ See also: http://nlpprogress.com/english/data_to_text_generation.html
 
 :heavy_minus_sign: Neural CRF Model for Sentence Alignment in Text Simplification [**(paper)**](https://www.aclweb.org/anthology/2020.acl-main.709.pdf) [**(code and data)**](https://github.com/chaojiang06/wiki-auto)
 
-See also: 'Iterative Edit-Based Unsupervised Sentence Simplification" and "ASSET: A Dataset for Tuning and Evaluation of Sentence Simplification Models with Multiple Rewriting Transformations", above.
+See also: "Iterative Edit-Based Unsupervised Sentence Simplification" and "ASSET: A Dataset for Tuning and Evaluation of Sentence Simplification Models with Multiple Rewriting Transformations", above.
 
 ---
 
