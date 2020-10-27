@@ -572,6 +572,11 @@ See also: http://nlpprogress.com/english/data_to_text_generation.html
 
 :heavy_minus_sign: [The Summary Loop: Learning to Write Abstractive Summaries Without Examples](https://virtual.acl2020.org/paper_main.460.html) [**(paper)**](https://www.aclweb.org/anthology/2020.acl-main.460.pdf) [**(code)**](https://github.com/CannyLab/summary_loop)
 
+**Simplification**
+
+:heavy_minus_sign: Neural CRF Model for Sentence Alignment in Text Simplification [**(paper)**](https://www.aclweb.org/anthology/2020.acl-main.709.pdf) [**(code and data)**](https://github.com/chaojiang06/wiki-auto)
+
+See also: 'Iterative Edit-Based Unsupervised Sentence Simplification" and "ASSET: A Dataset for Tuning and Evaluation of Sentence Simplification Models with Multiple Rewriting Transformations", above.
 
 ---
 
@@ -772,8 +777,6 @@ Toward Gender-Inclusive Coreference Resolution
 MixText: Linguistically-Informed Interpolation of Hidden Space for Semi-Supervised Text Classification
 
 Shape of Synth to Come
-
-Neural CRF Model for Sentence Alignment in Text Simplification
 
 A Knowledge-Enhanced Pretraining Model for Commonsense Story Generation
 
