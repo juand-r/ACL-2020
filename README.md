@@ -506,6 +506,8 @@ See also: "Iterative Edit-Based Unsupervised Sentence Simplification" listed und
 
 :heavy_minus_sign: [A Generative Model for Joint Natural Language Understanding and Generation](https://virtual.acl2020.org/paper_main.163.html) [**(paper)**](https://www.aclweb.org/anthology/2020.acl-main.163.pdf)
 
+**See also:** [Pickering and Garrod, An integrated theory of language production and comprehension (2013)](https://www.cambridge.org/core/services/aop-cambridge-core/content/view/B8078F8F7AAEE99DE0579ACF32039B6A/S0140525X12001495a.pdf/an_integrated_theory_of_language_production_and_comprehension.pdf)
+
 ---
 
 ###  [:top:](#selections-from-acl-2020) Data-to-Text Generation
